@@ -40,7 +40,7 @@
             android:alignmentMode="alignMargins"
             android:columnOrderPreserved="false">
 
-            <!-- 1. ASISTENTE -->
+            <!-- Asistente -->
             <LinearLayout
                 android:id="@+id/btn1"
                 android:layout_width="0dp"
@@ -66,7 +66,7 @@
                     android:layout_marginTop="8dp"/>
             </LinearLayout>
 
-            <!-- 2. VISIÓN -->
+            <!-- Visión -->
             <LinearLayout
                 android:id="@+id/btn2"
                 android:layout_width="0dp"
@@ -92,7 +92,7 @@
                     android:layout_marginTop="8dp"/>
             </LinearLayout>
 
-            <!-- 3. CHAT -->
+            <!-- Chat-->
             <LinearLayout
                 android:id="@+id/btn3"
                 android:layout_width="0dp"
@@ -118,7 +118,7 @@
                     android:layout_marginTop="8dp"/>
             </LinearLayout>
 
-            <!-- 4. AUDIO -->
+            <!-- Audio-->
             <LinearLayout
                 android:id="@+id/btn4"
                 android:layout_width="0dp"
@@ -144,7 +144,7 @@
                     android:layout_marginTop="8dp"/>
             </LinearLayout>
 
-            <!-- 5. DATOS -->
+            <!-- Datos -->
             <LinearLayout
                 android:id="@+id/btn5"
                 android:layout_width="0dp"
@@ -170,7 +170,7 @@
                     android:layout_marginTop="8dp"/>
             </LinearLayout>
 
-            <!-- 6. AJUSTES -->
+            <!-- Ajustes -->
             <LinearLayout
                 android:id="@+id/btn6"
                 android:layout_width="0dp"
